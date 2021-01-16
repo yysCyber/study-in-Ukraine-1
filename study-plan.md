@@ -2,7 +2,7 @@
 
 > Statement:
 >
-> 1. Using Markdown to write this document. The document will show other people by PDF file or paper.
+> 1. Using Markdown to write this document.
 >
 > 2. Maybe I made some mistakes in the document because my English is not very good, Please forgive me.
 
@@ -10,7 +10,7 @@
 
 ## 1. Self introduction
 
-![](https://github.com/yysCyber/study-in-Ukraine-1/blob/main/photo.jpg?raw=true)
+![](https://raw.githubusercontent.com/yysCyber/study-in-Ukraine-1/main/photo.jpg)
 
 |              Item              |                        Content                        |
 | :----------------------------: | :---------------------------------------------------: |
@@ -133,6 +133,10 @@
 
 > I hardly ever got knowledge or practiced about hardware during my undergraduate. It is very difficult to tell you what I want to learn. Maybe combine hardware and software, IoT.
 
+- Big Data and AI
+
+> Maybe use some technology about Big Data and AI to help you analyse data that get from your software and hardware applications. Make applications more clever.
+
 - Practice as more as possible.
 
 > As for me, I need to pay more attention to practice. I believe if you practice successfully, your papers are not very difficult to finish.
@@ -153,9 +157,9 @@
 
 - Others
 
-> It is difficult to explain clearly due to the limited level. 
+> Maybe I have made some mistakes in my study plan because the plan is just only my personal opinion.
 >
-> No matter what, keep hardworing.
+> No matter what, I will keep hardworing.
 
 
 
