@@ -10,6 +10,8 @@
 
 ## 1. Self introduction
 
+![](https://github.com/yysCyber/study-in-Ukraine-1/blob/main/photo.jpg?raw=true)
+
 |              Item              |                        Content                        |
 | :----------------------------: | :---------------------------------------------------: |
 |              Name              |                     Yuan Yueshun                      |
